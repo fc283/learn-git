@@ -1,1 +1,1 @@
-console.log("this is the cool feature one")
+console.log("This is the cool feature one.");
