@@ -1,1 +1,3 @@
 some cool text file
+
+and some cool text
